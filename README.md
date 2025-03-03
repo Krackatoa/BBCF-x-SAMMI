@@ -4,7 +4,7 @@ A Bridge Extension for [SAMMI](https://sammi.solutions). Take interactions in ga
 
 ## Extension Function
 
-This extension allows you to receive data from [TheLettuceClub's GGST Live Content Mod](https://github.com/TheLettuceClub/BBCF-Sammi) in the form of Extension Triggers inside SAMMI. A collection of example buttons have been provided with some experimental functionality to get you started.
+This extension allows you to receive data from [TheLettuceClub's BBCF Live Content Mod](https://github.com/TheLettuceClub/BBCF-Sammi) in the form of Extension Triggers inside SAMMI. A collection of example buttons have been provided with some experimental functionality to get you started.
 
 ![image](https://github.com/user-attachments/assets/9670abfa-6a63-4419-9f54-39642cf39011)
 
